@@ -1,0 +1,5 @@
+pyhocon
+ffmpeg-python
+sanic
+jiwer
+regex
